@@ -1,3 +1,8 @@
+
 print ("hello world;")
 print ("hello every body;")
 print ("Hello;")
+print ("Hello my dwar friend;")
+print ("Glad to see you;")
+=======
+
